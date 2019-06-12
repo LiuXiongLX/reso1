@@ -9,4 +9,10 @@ public class Demo01 {
         System.out.println("99999");
         System.out.println("99999");
     }
+
+
+    public void find(){
+
+        int i =2;
+    }
 }
